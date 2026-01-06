@@ -12,7 +12,7 @@ Botão de fechar e minimizar.
 Botão control direito para minimizar e mostrar.
 Animações bonitas na Gui.
 
-Botões:
+# Botões:
 
 Dex Explorer DPP (decompilador de jogos no roblox local)
 infinite yeld (script onde você consegue ter uma variedade de comandos de administrador local para desenvolver.)
