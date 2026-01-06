@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://github.com/IsaacLunguinhoDev/Dev-777-hub-roblox-script/blob/main/script.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IsaacLunguinhoDev/Dev-777-hub-roblox-script/refs/heads/main/script.lua"))()
